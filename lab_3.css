@@ -32,3 +32,9 @@ body {
     color: bisque;
     background-color: gray;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+    align-content: center;
+}
